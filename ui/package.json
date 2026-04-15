@@ -14,7 +14,7 @@
     "@formatjs/intl-pluralrules": "^5.2.6",
     "@formatjs/intl-relativetimeformat": "^11.2.6",
     "@formatjs/intl-utils": "^3.8.4",
-    "axios": "^0.30.0",
+    "axios": "^1.15.0",
     "bezier-js": "^6.1.4",
     "buffer": "^6.0.3",
     "classnames": "^2.5.1",
@@ -26,7 +26,7 @@
     "google-libphonenumber": "^3.2.40",
     "http-proxy-middleware": "^3.0.5",
     "js-file-download": "^0.4.9",
-    "lodash": "^4.17.11",
+    "lodash": "^4.18.1",
     "moment": "^2.30.1",
     "numeral": "^2.0.6",
     "papaparse": "^5.5.2",
@@ -43,7 +43,7 @@
     "react-markdown": "^8.0.7",
     "react-pdf": "^7.7.3",
     "react-redux": "^8.1.3",
-    "react-router-dom": "^6.28.1",
+    "react-router-dom": "^6.30.3",
     "react-waypoint": "^10.1.0",
     "recharts": "^2.15.1",
     "redux": "^4.2.1",
@@ -54,7 +54,7 @@
     "truncate": "^3.0.0",
     "typescript": "^4.9.5",
     "uuid": "^11.1.0",
-    "yaml": "^2.7.1"
+    "yaml": "^2.8.3"
   },
   "overrides": {
     "browserify-sign": "<=4.2.2"
